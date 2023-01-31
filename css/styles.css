@@ -3,13 +3,6 @@ body {
     
 }
 
-h1 {
-    width:500px;
-    margin: 0 auto;
-    background: rgb(223, 212, 212);
-    text-align: center;
-}
-
 .item {
     background-color: rgb(168, 165, 165);
     font-size: 40px; /* 40px/16=2.5em */
@@ -19,5 +12,4 @@ p.tittle {
     font-weight: bold;
     width:500px;
     margin: 0 auto;
-    text-align: center;
 }
